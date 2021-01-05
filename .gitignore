@@ -1,6 +1,8 @@
 /input/
 /.vscode/
-/src/detectron2-windows/
-/src/imagefolder/
-/src/output/
+/workdir/detectron2-windows/
+/workdir/imagefolder/
+/workdir/output/
 *.pkl
+/imagefolder/
+/__pycache__/
