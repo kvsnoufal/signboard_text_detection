@@ -3,10 +3,10 @@ Generate synthetic dataset for object detection (Faster R-CNN) + evaluate on rea
 
 
 #### Generate images + bounding box dataset
-\*generate_synthetic_dataset.py\*
+```generate_synthetic_dataset.py```
 
 #### Train on fake dataset
-\*train_fasterrcnn.py\*
+```train_fasterrcnn.py```
 
 #### Evaluate on real dataset
-\*eval_fasterrcnn.py\*
+```eval_fasterrcnn.py```
