@@ -1,0 +1,6 @@
+/input/
+/.vscode/
+/src/detectron2-windows/
+/src/imagefolder/
+/src/output/
+*.pkl
