@@ -16,11 +16,11 @@ Generate synthetic dataset for object detection (Faster R-CNN) + evaluate on rea
 ```eval_fasterrcnn.py```
 
 ### Synthetic Dataset Generation: Steps
-![Image of Steps](https://github.com/kvsnoufal/signboard_text_detection/tree/master/readme_images/steps.png)
+![Image of Steps](https://github.com/kvsnoufal/signboard_text_detection/blob/master/readme_images/steps.png)
 
-![Image of Fake Data 1](https://github.com/kvsnoufal/signboard_text_detection/tree/master/readme_images/fakeimages.png)
+![Image of Fake Data 1](https://github.com/kvsnoufal/signboard_text_detection/blob/master/readme_images/fakeimages.png)
 
 ### Evaluation on Real Data
-![Image of Eval 2](https://github.com/kvsnoufal/signboard_text_detection/tree/master/readme_images/eval1.png)
+![Image of Eval 2](https://github.com/kvsnoufal/signboard_text_detection/blob/master/readme_images/eval1.png)
 
-![Image of Eval 1](https://github.com/kvsnoufal/signboard_text_detection/tree/master/readme_images/eval2.png)
+![Image of Eval 1](https://github.com/kvsnoufal/signboard_text_detection/blob/master/readme_images/eval2.png)
